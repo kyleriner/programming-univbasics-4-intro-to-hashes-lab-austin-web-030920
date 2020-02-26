@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  new_hash = {:cat => "Hazelnut"
+  new_hash = {:cat => "Hazelnut"}
 end
 
 def pioneer
